@@ -23,7 +23,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/mohammed-danyal-h/">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
@@ -31,9 +31,6 @@
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://instagram.com">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
 
 <a href="https://github.com/Mohammed-danyal">
 <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
