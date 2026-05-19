@@ -44,10 +44,29 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,tensorflow,pytorch,sklearn" />
+### Frontend & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
 
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
 ---
