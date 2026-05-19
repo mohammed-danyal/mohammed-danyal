@@ -39,31 +39,10 @@
 
 ---
 
-## 💻 Tech Stack
+## ⚡ Tech Arsenal
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,typescript" />
-</p>
-
-### Frontend & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nodejs,mongodb,mysql,tensorflow,pytorch,git,github,vscode,linux&theme=dark" />
 </p>
 
 ---
