@@ -93,21 +93,7 @@
 
 ---
 
-## ⚡ Philosophy
 
-> "Build systems that outlive motivation."
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Launch scalable AI products
-- 📚 Publish books
-- 💪 Build elite discipline & fitness
-- 🌍 Create impactful startups
-- 🧠 Master Machine Learning
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammed-danyal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
